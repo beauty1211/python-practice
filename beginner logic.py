@@ -384,16 +384,11 @@ else:
 
 print("Greatest is:", greatest)
 
-
-
-
 #another way
 print("Greatest is:", max(a, b, c))
 
 
 #12. Find smallest of three numbers.
-
-
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
