@@ -41,7 +41,7 @@ a=['aman','suman','beauty']
 r=[]
 for i in range (len(a)-1,-1,-1):   
     r.append(a[i])
-print(r)             #['beauty','suman','aman']
+print(r)            #['beauty','suman','aman']
 print()
 
 #7. Sort list without using sort().
